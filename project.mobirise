@@ -59,7 +59,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://justcheatz.ga",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false,
     "cookiesAlert": false
   },
